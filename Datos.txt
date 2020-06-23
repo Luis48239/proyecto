@@ -1,0 +1,4 @@
+{"Nombre":"Luis Joaquin Hernandez VItal ","Matricula":"186010047","Correo":"luis.3100@hotmail.com","Promedio":"80"}
+{"Nombre":"ana patricia barba escamilla","Matricula":"186010023","Correo":"paty.1998@gmail.com","Promedio":"90"}
+{"Nombre":"Raul Daniel Chaparro","Matricula":"186010052 ","Correo":"raulchp@gmail.com ","Promedio":"80"}
+{"Nombre":"Jose Antonio Rivera Vazquez ","Matricula":"186010004 ","Correo":"joseantonio15600@gmail.com ","Promedio":"99"}
